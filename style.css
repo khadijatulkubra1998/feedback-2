@@ -1,0 +1,72 @@
+header {
+    padding: 50px;
+}
+
+body {
+    background-color: whiite;
+    text-align: left;
+    width: 100%;
+    font-size: 20px;
+    background-image: url("g.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+wrapper {
+    width: 500px;
+    padding: 5px;
+    background: skyblue;
+}
+
+form {
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 100px;
+    width: 60%;
+    background-image: url("e.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    webkit-box-shadow: -6px -7px 13px 0px rgba(8, 8, 8, 1);
+    -moz-box-shadow: -6px -7px 13px 0px rgba(8, 8, 8, 1);
+    box-shadow: -6px -7px 13px 0px rgba(8, 8, 8, 1);
+}
+
+h1 {
+    font-family: palatino;
+    font-size: 50px;
+}
+
+h3 {
+    font-family: palatino;
+    font-weight: bold;
+    font-size: 35px;
+}
+    p {
+        margin: 35px;
+        font-family: Garamond;
+        font-weight: bold;
+        font-size: 20px;
+    }
+
+    input[type=text] {
+        width: 70%;
+        height: 70%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        box-sizing: border-box;
+    }
+    input[typer=radio] {
+        width: 50%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        box-sizing: border-box;
+    }
+    p {
+        margin-left: 0px;
+    }
+    button {
+        border-radius: 12px;
+        background-color: skyblue;
+        box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        width: 15%;
+    }
